@@ -1,0 +1,10 @@
+str="ReverseMe"
+str1=str[::-1]
+print(str1)
+i=str1.replace("e","")
+print(i)
+str2="VowelsRemoved"
+str3=str2[::-1]
+print(str3)
+j=str3.replace("e","")
+print(j)
